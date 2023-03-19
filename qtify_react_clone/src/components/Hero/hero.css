@@ -1,0 +1,42 @@
+.hero {
+  position: absolute;
+  width: 1304px;
+  height: 270px;
+  left: 0px;
+  top: 70px;
+  background: #121212;
+  display: flex;
+  justify-content: space-around;
+}
+
+.container {
+  position: absolute;
+  width: 600px;
+  height: 200px;
+  left: 50px;
+}
+
+.text-container {
+  position: absolute;
+  width: 556px;
+  height: 100px;
+  left: 200px;
+  top: 70px;
+}
+
+p {
+  color: white;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 20px;
+}
+
+.image-container {
+  position: absolute;
+  width: 212px;
+  height: 212px;
+  left: 760px;
+  top: 40px;
+}
